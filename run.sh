@@ -1,1 +1,1 @@
-mvn scala:run -DmainClass=lectures.part1basics.ValuesVariablesTypes
+mvn scala:run -DmainClass=lectures.part1basics.ValuesVariablesTypes -q
