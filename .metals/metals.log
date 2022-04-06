@@ -1371,3 +1371,5 @@ Error downloading org.scalameta:mtags_2.12.6:0.11.2
 2022.04.05 22:47:04 WARN  unsupported Scala 2.12.6[0m
 2022.04.05 22:47:05 INFO  No mtags for 2.12.6.[0m
 2022.04.05 22:47:05 WARN  unsupported Scala 2.12.6[0m
+2022.04.05 22:47:59 INFO  No mtags for 2.12.6.[0m
+2022.04.05 22:47:59 WARN  unsupported Scala 2.12.6[0m
