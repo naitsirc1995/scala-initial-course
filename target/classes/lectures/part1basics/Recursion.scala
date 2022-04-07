@@ -110,8 +110,13 @@ object Recursion extends App
 
             fibonacciHelper(n,0,0)
         }
-        //f(1,0,0) = f(0,0+0,1+0) = 0
-        //f(2,0,0) = f(1,0+0,)
+        //f(1,0,0) = f(0,0,1) = 1
+        //f(2,0,0) = f(1,0,1) = f(1,0,1) = f(0,1,1) = 1
+        //f(3,0,0) = f(2,0,1) = f(2,0,1) = f(1,0+1,1) = f(1,1,1) = f(0,2,2) = 2 
+        //f(4,0,0) = f(3,0,1) = f(2,1,1) = f(1,2,2) = f(0,4,3) = 3 
+        //f(5,0,0) = f(4,0,1) = f(3,1,1) = f(2,2,2) = f(1,4,3) = f(0,7,5) = 5 
+        //f(6,0,0) = f(5,0,1) = f(4,1,1) = f(3,2,2) = f(2,4,3) = f(1,7,5) = f(0,13,8) = 8
+
 
     println(
         fibonacciTailRecursion(1),
@@ -119,7 +124,48 @@ object Recursion extends App
         fibonacciTailRecursion(3),
         fibonacciTailRecursion(4),
         fibonacciTailRecursion(5),
-        fibonacciTailRecursion(6)
+        fibonacciTailRecursion(6),
+        fibonacciTailRecursion(7)
     ) 
+
+
+
+    // Exercise solutions 
+
+    def isPrime(n:Int):Boolean = 
+        {
+            @tailrec
+            def isPrimeTailrec(t:Int,isStillPrime:Boolean):Boolean = 
+                {
+                    if (!isStillPrime) false
+                    else if (t <= 1) true 
+                    else isPrimeTailrec(t-1,n%t != 0 && isStillPrime )
+                }
+
+            isPrimeTailrec(n/2,true)
+        }
+
+    println(isPrime(2003))
+    println(isPrime(629))
+
+
+
+    def fibonacci(n:Int):Int = 
+        {
+            def fiboTailrec(
+                i:Int, 
+                last:Int, 
+                nextLast:Int 
+            ):Int = 
+                {
+                    if (i >= n) last 
+                    else fiboTailrec(i+1,last + nextLast, last)                    
+                }
+            
+            if (n<=2) 1 
+            else fiboTailrec(2,1,1)
+        }
+    
+    println(fibonacci(8))
 
 }
