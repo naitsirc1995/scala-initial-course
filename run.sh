@@ -1,1 +1,1 @@
-mvn scala:run -DmainClass=lectures.part1basics.DefaultArgs -q
+mvn scala:run -DmainClass=lectures.part2oop.OOBasics -q
