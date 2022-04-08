@@ -43,6 +43,8 @@ object Recursion extends App
     = factHelper(1,1*2*3*4*..*10)
     = 1*2*3*4*...*10
     */
+
+    println(anotherFactorial(25000))
     
 
     // WHEN YOU NEED LOOPS, USE _TAIL_RECURSION.
