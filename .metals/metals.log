@@ -10027,3 +10027,877 @@ WARNING: Unmatched cancel notification for request id 21519
 2022.04.07 16:55:21 INFO  time: compiled rock-the-jvm-beginners in 0.17s[0m
 2022.04.07 16:58:52 INFO  No mtags for 2.12.6.[0m
 2022.04.07 16:58:52 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:05:42 ERROR Failed to fetch mtags for 2.12.6
+Error downloading org.scalameta:mtags_2.12.6:0.11.2
+  not found: /home/cristian/.ivy2/local/org.scalameta/mtags_2.12.6/0.11.2/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom[0m
+2022.04.07 17:05:42 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:05:43 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:05:43 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:05:43 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:05:43 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:05:43 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:05:43 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:05:51 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:05:51 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:05:51 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:05:51 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:05:53 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:05:53 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:05:53 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:05:53 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:05:54 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:05:54 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:05:54 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:05:54 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:06:00 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:06:00 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:06:02 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:06:02 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:06:02 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:06:02 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:06:04 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:06:04 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:06:05 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:06:05 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:06:08 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:06:08 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:06:08 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:06:08 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:06:08 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:06:08 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:06:13 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:06:13 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:06:13 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:06:13 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:06:14 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:06:14 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:06:23 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:06:23 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:06:23 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:06:23 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:06:24 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:06:24 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:06:24 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:06:24 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:07:22 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:07:22 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:07:22 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:07:22 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:07:27 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 17:07:27 INFO  time: compiled rock-the-jvm-beginners in 0.16s[0m
+2022.04.07 17:07:57 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:07:57 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:07:57 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:07:57 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:07:57 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:07:57 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:07:59 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:07:59 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:07:59 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:07:59 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:07:59 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:07:59 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:01 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:01 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:01 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:01 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:01 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:01 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:02 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:02 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:02 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:02 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:02 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:02 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:04 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:04 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:04 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:04 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:06 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:06 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:06 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:06 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:07 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:07 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:07 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:07 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:09 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:09 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:09 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:09 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:11 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:11 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:11 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:11 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:12 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:12 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:12 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:12 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:16 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:16 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:18 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:18 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:18 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:18 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:19 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:19 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:19 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:19 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:22 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:22 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:22 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:22 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:22 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:22 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:24 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:24 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:24 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:24 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:26 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:26 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:26 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:26 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:28 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:28 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:30 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:30 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:30 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:30 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:30 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:30 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:31 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:31 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:31 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:31 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:32 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:32 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:34 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:34 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:35 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:35 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:36 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:36 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:36 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:36 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:39 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:39 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:41 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:41 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:41 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:41 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:41 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:41 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:46 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:46 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:48 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:48 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:48 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:48 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:52 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:52 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:08:56 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:08:56 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:09:36 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:09:36 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:09:52 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:09:52 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:09:54 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:09:54 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:09:54 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:09:54 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:09:55 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:09:55 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:10:14 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:10:14 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:10:15 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:10:15 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:10:15 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:10:15 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:10:16 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:10:16 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:10:16 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:10:16 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:10:16 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:10:16 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:10:18 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:10:18 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:10:18 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:10:18 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:10:19 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:10:19 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:10:19 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:10:19 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:10:19 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:10:19 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:10:20 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:10:20 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:46 ERROR Failed to fetch mtags for 2.12.6
+Error downloading org.scalameta:mtags_2.12.6:0.11.2
+  not found: /home/cristian/.ivy2/local/org.scalameta/mtags_2.12.6/0.11.2/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom[0m
+2022.04.07 17:13:46 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:46 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:13:46 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:46 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:13:46 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:47 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:13:47 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:47 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:13:47 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:47 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:13:47 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:49 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:13:49 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:51 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:13:51 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:53 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:13:53 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:53 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:13:53 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:54 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:13:54 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:54 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:13:54 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:56 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:13:56 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:57 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:13:57 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:59 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:13:59 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:13:59 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:13:59 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:14:04 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:14:04 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:14:07 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:14:07 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:14:20 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:14:20 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:14:20 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:14:20 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:14:20 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:14:20 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:14:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:14:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:14:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:14:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:14:23 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:14:23 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:14:25 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:14:25 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:14:25 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:14:25 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:14:30 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:14:30 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:14:41 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 17:14:41 INFO  time: compiled rock-the-jvm-beginners in 0.14s[0m
+2022.04.07 17:14:48 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 17:14:48 INFO  time: compiled rock-the-jvm-beginners in 0.15s[0m
+2022.04.07 17:14:50 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 17:14:50 INFO  time: compiled rock-the-jvm-beginners in 0.17s[0m
+2022.04.07 17:14:53 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 17:14:53 INFO  time: compiled rock-the-jvm-beginners in 0.15s[0m
+2022.04.07 17:14:56 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 17:14:56 INFO  time: compiled rock-the-jvm-beginners in 0.14s[0m
+2022.04.07 17:15:09 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:15:09 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:15:10 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:15:10 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:15:10 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:15:10 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:01 ERROR Failed to fetch mtags for 2.12.6
+Error downloading org.scalameta:mtags_2.12.6:0.11.2
+  not found: /home/cristian/.ivy2/local/org.scalameta/mtags_2.12.6/0.11.2/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom[0m
+2022.04.07 17:20:01 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:01 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:01 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:10 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:10 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:10 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:10 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:11 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:11 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:12 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:12 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:12 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:12 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:12 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:12 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:14 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:14 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:16 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:16 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:16 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:16 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:19 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:19 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:19 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:19 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:22 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:22 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:22 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:22 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:23 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:23 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:25 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:25 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:25 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:25 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:25 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:25 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:26 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:26 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:26 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:26 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:26 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:26 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:29 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:29 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:29 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:29 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:29 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:29 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:30 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:30 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:32 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:32 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:32 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:32 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:32 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:32 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:36 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:36 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:42 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:42 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:42 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:42 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:42 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:42 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:43 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:43 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:43 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:43 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:43 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:43 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:43 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:43 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:45 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:45 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:20:45 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:20:45 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 17:24:47 INFO  No mtags for 2.12.6.[0m
+2022.04.07 17:24:47 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 18:04:55 INFO  shutting down Metals[0m
+2022.04.07 18:04:55 INFO  Shut down connection with build server.[0m
+2022.04.07 19:05:47 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/cristian/info/estudio/scala/rock-the-jvm-beginners/.metals/lsp.trace.json or /home/cristian/.cache/metals/lsp.trace.json[0m
+2022.04.07 19:05:47 INFO  logging to file /home/cristian/info/estudio/scala/rock-the-jvm-beginners/.metals/metals.log[0m
+2022.04.07 19:05:47 INFO  Started: Metals version 0.11.2 in workspace '/home/cristian/info/estudio/scala/rock-the-jvm-beginners' for client Visual Studio Code 1.66.0.[0m
+2022.04.07 19:05:47 INFO  Parse release: 11.0.13[0m
+2022.04.07 19:05:50 INFO  time: initialize in 2.38s[0m
+2022.04.07 19:05:50 INFO  Attempting to connect to the build server...[0m
+2022.04.07 19:05:50 INFO  skipping build import with status 'Installed'[0m
+2022.04.07 19:05:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/cristian/info/estudio/scala/rock-the-jvm-beginners/.metals/bsp.trace.json or /home/cristian/.cache/metals/bsp.trace.json[0m
+2022.04.07 19:05:51 INFO  time: Connected to build server in 0.31s[0m
+2022.04.07 19:05:50 INFO  Connected to Build server: Bloop v1.4.13[0m
+2022.04.07 19:05:54 ERROR Failed to fetch mtags for 2.12.6
+Error downloading org.scalameta:mtags_2.12.6:0.11.2
+  not found: /home/cristian/.ivy2/local/org.scalameta/mtags_2.12.6/0.11.2/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom[0m
+2022.04.07 19:05:54 ERROR Failed to fetch mtags for 2.12.6
+Error downloading org.scalameta:mtags_2.12.6:0.11.2
+  not found: /home/cristian/.ivy2/local/org.scalameta/mtags_2.12.6/0.11.2/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom[0m
+2022.04.07 19:05:55 ERROR Failed to fetch mtags for 2.12.6
+Error downloading org.scalameta:mtags_2.12.6:0.11.2
+  not found: /home/cristian/.ivy2/local/org.scalameta/mtags_2.12.6/0.11.2/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom[0m
+2022.04.07 19:05:55 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:05:55 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:05:55 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:05:55 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:05:55 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:05:55 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:05:55 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:05:58 INFO  time: indexed workspace in 7.25s[0m
+2022.04.07 19:05:58 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:05:58 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:06:00 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:06:00 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:06:08 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:06:08 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:06:08 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:06:08 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:06:08 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:06:08 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:07:58 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:07:58 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:07:58 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:07:58 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:08:00 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:08:00 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:08:01 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:08:01 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:08:01 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:08:01 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:08:37 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:08:37 INFO  time: compiled rock-the-jvm-beginners in 0.11s[0m
+2022.04.07 19:08:49 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:08:49 WARN  unsupported Scala 2.12.6[0m
+Apr 07, 2022 7:08:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+2022.04.07 19:08:50 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:08:50 INFO  time: compiled rock-the-jvm-beginners in 0.12s[0m
+2022.04.07 19:08:51 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:08:51 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:08:52 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:08:52 INFO  time: compiled rock-the-jvm-beginners in 48ms[0m
+2022.04.07 19:08:53 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:08:53 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:08:56 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:08:56 INFO  time: compiled rock-the-jvm-beginners in 0.1s[0m
+2022.04.07 19:08:58 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:08:58 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:08:58 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:08:58 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:08:58 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:08:58 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:08:58 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:08:58 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:08:58 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:08:58 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:08:58 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:08:58 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:08:58 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:08:58 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:09:00 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:09:00 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:09:00 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:09:00 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:09:00 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:09:00 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:09:01 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:09:01 INFO  time: compiled rock-the-jvm-beginners in 0.13s[0m
+2022.04.07 19:09:03 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:09:03 INFO  time: compiled rock-the-jvm-beginners in 0.13s[0m
+2022.04.07 19:10:01 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:01 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:01 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:01 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:01 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:01 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:02 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:02 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:02 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:02 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:02 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:02 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:02 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:02 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:04 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:04 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:04 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:04 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:04 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:04 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:04 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:04 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:04 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:04 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:05 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:05 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:06 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:10:06 INFO  time: compiled rock-the-jvm-beginners in 56ms[0m
+2022.04.07 19:10:08 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:08 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:09 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:10:09 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:09 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:09 INFO  time: compiled rock-the-jvm-beginners in 74ms[0m
+2022.04.07 19:10:09 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:09 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:09 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:09 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:09 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:09 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:11 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:10:11 INFO  time: compiled rock-the-jvm-beginners in 54ms[0m
+2022.04.07 19:10:11 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:10:11 INFO  time: compiled rock-the-jvm-beginners in 49ms[0m
+2022.04.07 19:10:14 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:14 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:14 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:14 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:14 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:14 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:14 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:14 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:15 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:10:15 INFO  time: compiled rock-the-jvm-beginners in 56ms[0m
+2022.04.07 19:10:18 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:10:18 INFO  time: compiled rock-the-jvm-beginners in 0.16s[0m
+2022.04.07 19:10:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:23 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:10:23 INFO  time: compiled rock-the-jvm-beginners in 0.13s[0m
+2022.04.07 19:10:25 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:10:25 INFO  time: compiled rock-the-jvm-beginners in 0.13s[0m
+2022.04.07 19:10:30 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:10:30 INFO  time: compiled rock-the-jvm-beginners in 0.13s[0m
+2022.04.07 19:10:32 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:10:32 INFO  time: compiled rock-the-jvm-beginners in 0.13s[0m
+2022.04.07 19:10:34 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:34 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:35 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:10:35 INFO  time: compiled rock-the-jvm-beginners in 0.16s[0m
+2022.04.07 19:10:38 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:10:38 INFO  time: compiled rock-the-jvm-beginners in 0.14s[0m
+2022.04.07 19:10:41 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:41 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:41 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:41 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:41 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:41 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:44 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:44 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:44 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:44 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:44 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:44 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:44 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:44 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:46 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:10:46 INFO  time: compiled rock-the-jvm-beginners in 52ms[0m
+2022.04.07 19:10:47 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:10:47 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:10:49 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:10:49 INFO  time: compiled rock-the-jvm-beginners in 50ms[0m
+2022.04.07 19:10:59 ERROR Failed to fetch mtags for 2.12.6
+Error downloading org.scalameta:mtags_2.12.6:0.11.2
+  not found: /home/cristian/.ivy2/local/org.scalameta/mtags_2.12.6/0.11.2/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom[0m
+2022.04.07 19:10:59 WARN  unsupported Scala 2.12.6[0m
+Apr 07, 2022 7:10:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 402
+Apr 07, 2022 7:10:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 401
+2022.04.07 19:11:00 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:11:00 INFO  time: compiled rock-the-jvm-beginners in 54ms[0m
+2022.04.07 19:11:02 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:02 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:11:04 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:11:04 INFO  time: compiled rock-the-jvm-beginners in 41ms[0m
+2022.04.07 19:11:06 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:06 WARN  unsupported Scala 2.12.6[0m
+Apr 07, 2022 7:11:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 14 is not a valid line number, allowed [0..13]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:57)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:60)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:143)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:78)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:77)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1615)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1614)
+	... 15 more
+
+2022.04.07 19:11:09 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:11:09 INFO  time: compiled rock-the-jvm-beginners in 22ms[0m
+Apr 07, 2022 7:11:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 14 is not a valid line number, allowed [0..13]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:57)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:60)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:143)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:78)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:77)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1615)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1614)
+	... 15 more
+
+Apr 07, 2022 7:11:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 14 is not a valid line number, allowed [0..13]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:57)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:60)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:143)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:78)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:77)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1615)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1614)
+	... 15 more
+
+Apr 07, 2022 7:11:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 14 is not a valid line number, allowed [0..13]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:57)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:60)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:143)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:78)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:77)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1615)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1614)
+	... 15 more
+
+2022.04.07 19:11:17 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:11:17 INFO  time: compiled rock-the-jvm-beginners in 0.14s[0m
+2022.04.07 19:11:19 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:11:19 INFO  time: compiled rock-the-jvm-beginners in 0.17s[0m
+2022.04.07 19:11:29 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:11:29 INFO  time: compiled rock-the-jvm-beginners in 0.11s[0m
+2022.04.07 19:11:52 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:52 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:11:52 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:52 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:11:52 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:52 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:11:54 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:11:54 INFO  time: compiled rock-the-jvm-beginners in 71ms[0m
+2022.04.07 19:11:54 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:54 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:11:54 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:54 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:11:54 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:54 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:11:56 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:11:56 INFO  time: compiled rock-the-jvm-beginners in 62ms[0m
+2022.04.07 19:11:59 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:59 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:11:59 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:59 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:11:59 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:59 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:11:59 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:59 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:11:59 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:59 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:11:59 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:59 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:11:59 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:59 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:11:59 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:59 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:11:59 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:11:59 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:00 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:00 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:00 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:00 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:00 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:00 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:02 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:02 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:02 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:02 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:02 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:02 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:02 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:02 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:02 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:02 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:03 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:12:03 INFO  time: compiled rock-the-jvm-beginners in 0.14s[0m
+2022.04.07 19:12:12 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:12 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:12 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:12:12 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:12 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:12 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:12 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:12 INFO  time: compiled rock-the-jvm-beginners in 0.42s[0m
+2022.04.07 19:12:13 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:12:13 INFO  time: compiled rock-the-jvm-beginners in 61ms[0m
+2022.04.07 19:12:14 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:14 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:14 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:14 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:14 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:14 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:15 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:12:15 INFO  time: compiled rock-the-jvm-beginners in 67ms[0m
+2022.04.07 19:12:17 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:17 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:17 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:17 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:17 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:17 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:17 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:17 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:17 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:17 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:17 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:17 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:17 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:17 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:17 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:17 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:19 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:12:19 INFO  time: compiled rock-the-jvm-beginners in 56ms[0m
+2022.04.07 19:12:19 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:19 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:21 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:21 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:22 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:22 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:22 INFO  No mtags for 2.12.6.[0m
+2022.04.07 19:12:22 WARN  unsupported Scala 2.12.6[0m
+2022.04.07 19:12:22 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:12:22 INFO  time: compiled rock-the-jvm-beginners in 0.22s[0m
+2022.04.07 19:14:31 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:14:31 INFO  time: compiled rock-the-jvm-beginners in 0.16s[0m
+2022.04.07 19:14:33 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.07 19:14:33 INFO  time: compiled rock-the-jvm-beginners in 0.17s[0m

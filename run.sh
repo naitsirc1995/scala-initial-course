@@ -1,1 +1,1 @@
-mvn scala:run -DmainClass=lectures.part1basics.Recursion -q
+mvn scala:run -DmainClass=lectures.part1basics.CBNvsCBV -q
