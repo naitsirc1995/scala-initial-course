@@ -66,6 +66,25 @@ object MethodNotations extends App
     val cristian:Person = new Person("Cristian","Good Bye Lennin")
 
     println(cristian())
+    
+
+    /*
+    1. Overload the + operator 
+        mary + "the rockstar" =>  new person "Mary (the rockstart)"
+
+
+    2. Add an age to the Person class => 
+        Add a unary + operator => new person with the age + 1 
+        +mary => mary with the age incremented 
+
+
+    3. Add a "leanrs" method in the Person class => "Mary learns Scala"
+       Add a learnsScala method, calls learns method with "Scala"
+       Use it in postfix notation
+
+    4. Overload the apply method
+        oveload the apply method mary.apply(2) => "Mary watched Inception 2 times"
+    */
 
     
 }
