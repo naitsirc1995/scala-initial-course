@@ -35,6 +35,8 @@ object OOBasics extends App
 
     
     instructorCounterInstance.inc.print
+    instructorCounterInstance.inc.inc.inc.print
+    instructorCounterInstance.inc(10).print
 
 
     
