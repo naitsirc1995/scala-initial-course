@@ -1,1 +1,1 @@
-mvn scala:run -DmainClass=lectures.part2oop.AbstractDataTypes -q
+mvn scala:run -DmainClass=exercises.ListTest -q
