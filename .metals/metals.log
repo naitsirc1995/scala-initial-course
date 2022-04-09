@@ -30180,3 +30180,5 @@ WARNING: Unmatched cancel notification for request id 27543
 2022.04.09 18:50:14 WARN  unsupported Scala 2.12.6
 2022.04.09 18:50:14 INFO  No mtags for 2.12.6.
 2022.04.09 18:50:14 WARN  unsupported Scala 2.12.6
+2022.04.09 18:53:35 INFO  No mtags for 2.12.6.
+2022.04.09 18:53:35 WARN  unsupported Scala 2.12.6
