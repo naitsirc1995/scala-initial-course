@@ -1,1 +1,1 @@
-mvn scala:run -DmainClass=lectures.part2oop.OOBasics -q
+mvn scala:run -DmainClass=lectures.part2oop.MethodNotations -q
