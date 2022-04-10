@@ -130,6 +130,4 @@ object ListTest extends App
                     )
                     .toString
     )
-
-
 }
