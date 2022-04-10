@@ -1,5 +1,6 @@
 package lectures.part2oop
 
+
 object CaseClases extends App 
 {
     /*
@@ -13,5 +14,37 @@ object CaseClases extends App
     println(jim.name)
 
     // 2. sensible toString
-    println(jim.toString())
+    // println(instance) = println(instance.toString) // syntactic sugar 
+    println(jim toString)
+    println(jim)
+
+    // 3. equals and hashCode implemented OOTB 
+    val jim2 = new Person("Jim",34)
+    println(jim == jim2)
+
+
+    // 4. CCs have handy copy method 
+    val jim3 = jim.copy(age = 45)
+    println(jim3)
+
+
+    // CCs have companion objects 
+    val thePerson = Person
+    val mary = Person("Mary",23)
+
+    // 6. CCs are serializable 
+    // Akka
+
+    // 7. CCs have extracted patterns = CCs can be used in PATTERN MATCHING 
+    case object UnitedKingdom
+    {
+        def name:String = "The IK of GB and NI"
+    }
+
+
+    /*
+    Expand MyList - use case classes and case objects 
+    */
+
+    
 }
