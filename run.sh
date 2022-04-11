@@ -1,1 +1,1 @@
-mvn scala:run -DmainClass=lectures.part3fp.AnonymousFunctions -q
+mvn scala:run -DmainClass=lectures.part3fp.HOFsCurries -q
