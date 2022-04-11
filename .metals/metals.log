@@ -36326,3 +36326,40 @@ WARNING: Unmatched cancel notification for request id 15012
 2022.04.10 21:35:19 INFO  time: compiled rock-the-jvm-beginners in 32ms
 2022.04.10 21:35:26 INFO  compiling rock-the-jvm-beginners (1 scala source)
 2022.04.10 21:35:26 INFO  time: compiled rock-the-jvm-beginners in 0.2s
+2022.04.10 21:39:29 INFO  compiling rock-the-jvm-beginners (1 scala source)
+2022.04.10 21:39:29 INFO  time: compiled rock-the-jvm-beginners in 0.12s
+2022.04.10 21:39:38 INFO  compiling rock-the-jvm-beginners (1 scala source)
+2022.04.10 21:39:38 INFO  time: compiled rock-the-jvm-beginners in 0.11s
+2022.04.10 21:39:38 ERROR Failed to fetch mtags for 2.12.6
+Error downloading org.scalameta:mtags_2.12.6:0.11.2
+  not found: /home/cristian/.ivy2/local/org.scalameta/mtags_2.12.6/0.11.2/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+2022.04.10 21:39:38 WARN  unsupported Scala 2.12.6
+2022.04.10 21:39:39 INFO  No mtags for 2.12.6.
+2022.04.10 21:39:39 WARN  unsupported Scala 2.12.6
+2022.04.10 21:39:40 INFO  No mtags for 2.12.6.
+2022.04.10 21:39:40 WARN  unsupported Scala 2.12.6
+2022.04.10 21:39:42 INFO  No mtags for 2.12.6.
+2022.04.10 21:39:42 WARN  unsupported Scala 2.12.6
+2022.04.10 21:39:43 INFO  No mtags for 2.12.6.
+2022.04.10 21:39:43 WARN  unsupported Scala 2.12.6
+2022.04.10 21:39:43 INFO  No mtags for 2.12.6.
+2022.04.10 21:39:43 WARN  unsupported Scala 2.12.6
+2022.04.10 21:39:43 INFO  No mtags for 2.12.6.
+2022.04.10 21:39:43 WARN  unsupported Scala 2.12.6
+2022.04.10 21:39:45 INFO  compiling rock-the-jvm-beginners (1 scala source)
+2022.04.10 21:39:45 INFO  time: compiled rock-the-jvm-beginners in 0.21s
+2022.04.10 21:39:57 INFO  No mtags for 2.12.6.
+2022.04.10 21:39:57 WARN  unsupported Scala 2.12.6
+2022.04.10 21:39:57 INFO  No mtags for 2.12.6.
+2022.04.10 21:39:57 WARN  unsupported Scala 2.12.6
+2022.04.10 21:39:57 INFO  No mtags for 2.12.6.
+2022.04.10 21:39:57 WARN  unsupported Scala 2.12.6
+2022.04.10 21:40:02 INFO  compiling rock-the-jvm-beginners (1 scala source)
+2022.04.10 21:40:02 INFO  time: compiled rock-the-jvm-beginners in 0.14s
+2022.04.10 21:40:10 INFO  compiling rock-the-jvm-beginners (1 scala source)
+2022.04.10 21:40:10 INFO  time: compiled rock-the-jvm-beginners in 0.14s
+2022.04.10 21:40:23 INFO  No mtags for 2.12.6.
+2022.04.10 21:40:23 WARN  unsupported Scala 2.12.6
