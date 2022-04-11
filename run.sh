@@ -1,1 +1,1 @@
-mvn scala:run -DmainClass=lectures.part2oop.CaseClases -q
+mvn scala:run -DmainClass=lectures.part2oop.Exceptions -q

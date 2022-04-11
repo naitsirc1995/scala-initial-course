@@ -46,5 +46,4 @@ object CaseClases extends App
     Expand MyList - use case classes and case objects 
     */
 
-    
 }
