@@ -143,6 +143,7 @@ object ListTest extends App
 
     println("I am about to test the sort method")
     unorderedListOfIntegers.sort((x,y)=>y-x).foreach(println)
+    // This thing did not work
 
 
     
