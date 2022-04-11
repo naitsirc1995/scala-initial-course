@@ -23,6 +23,13 @@ abstract class MyList[+A]
     def flatMap[B](transfomer:A => MyList[B]):MyList[B]
     def filter(predicate:A => Boolean):MyList[A]
 
+    // Applies a Unit Function to every element you want 
+    def foreach(unitFunction:A=>Unit):Unit
+
+
+    // Sorting your list 
+    def sort(sorting:(A,A)=>Int):MyList[A]
+
     //concatenation
     def ++[B>:A](list:MyList[B]):MyList[B]
 
@@ -42,6 +49,12 @@ case object Empty extends MyList[Nothing]
     def map[B](transformer:Nothing => B):MyList[B] = Empty 
     def flatMap[B](transfomer:Nothing => MyList[B]):MyList[B] = Empty 
     def filter(predicate:Nothing=>Boolean):MyList[Nothing] = Empty 
+
+    // Applies a Unit Function to every element you want 
+    def foreach(unitFunction: Nothing => Unit): Unit = Empty
+
+    // Sorting your list 
+    def sort(sorting: (Nothing, Nothing) => Int): MyList[Nothing] = Empty
 
     def ++[B>:Nothing](list:MyList[B]):MyList[B] = list
 }
@@ -65,7 +78,19 @@ case class Cons[+A](h:A,t:MyList[A]) extends MyList[A]
     def map[B](transformer: A=>B): MyList[B] = 
         new Cons(transformer(h),t.map(transformer))
 
-    
+
+    def foreach(unitFunction: A => Unit): Unit = 
+        if (t.isEmpty) unitFunction(h)
+        else {
+            unitFunction(h)
+            t.foreach(unitFunction)
+        }
+            
+
+    def sort(sorting: (A, A) => Int): MyList[A] =         
+        if ( sorting(h,t.head) > 0 ) this 
+        else new Cons(t.head, new Cons(h,t.tail.sort(sorting)))
+        
 
     def ++[B>:A](list:MyList[B]):MyList[B] = new Cons(h,t ++ list)
 
@@ -74,12 +99,14 @@ case class Cons[+A](h:A,t:MyList[A]) extends MyList[A]
 }
 
 
-
+// (1, new Cons(2, new Cons(3,Empty))).foreach(println)
+   // (2,)
 
 
 object ListTest extends App
 {
     val listOfIntegers:MyList[Int] = new Cons(1 , new Cons(2, new Cons(3,Empty)))
+    val unorderedListOfIntegers:MyList[Int] = new Cons(3,new Cons(512,new Cons(1, new Cons(-4, new Cons(45,Empty) ))))
     val cloneListOfIntegers:MyList[Int] = new Cons(1 , new Cons(2, new Cons(3,Empty)))
     val anotherListOfIntegers:MyList[Int] = new Cons(4, new Cons(5,Empty))
     val listOfStrings:MyList[String] = new Cons("Hello",new Cons("Scala",Empty))
@@ -110,5 +137,13 @@ object ListTest extends App
     )
 
     println(cloneListOfIntegers == listOfIntegers)
+
+    println("I am about to start working")
+    listOfIntegers.foreach(println)   
+
+    println("I am about to test the sort method")
+    unorderedListOfIntegers.sort((x,y)=>y-x).foreach(println)
+
+
     
 }
