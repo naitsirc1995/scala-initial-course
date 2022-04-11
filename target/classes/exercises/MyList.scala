@@ -88,23 +88,13 @@ object ListTest extends App
     println(listOfStrings.toString)
     println(
         listOfIntegers
-            .map(
-                new Function1[Int,Int]
-                {
-                    override def apply(elem: Int): Int = elem*2
-                }                    
-            )
+            .map(_*2)
             .toString
     )
 
     println(
         listOfIntegers
-                .filter(
-                    new Function1[Int,Boolean]
-                    {
-                        override def apply(elem: Int): Boolean = elem%2 == 0
-                    }
-                )
+                .filter( _ %2 == 0)
                 .toString
     )
 
@@ -115,13 +105,7 @@ object ListTest extends App
 
     println(
         listOfIntegers
-                    .flatMap(
-                        new Function1[Int,MyList[Int]] 
-                        {
-                            override def apply(elem: Int): MyList[Int] = 
-                                new Cons(elem,new Cons(elem+1,Empty))
-                        }
-                    )
+                    .flatMap(elem => new Cons(elem,new Cons(elem+1,Empty)))
                     .toString
     )
 
