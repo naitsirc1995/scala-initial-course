@@ -24,7 +24,7 @@ case class Just[+T](value:T) extends Maybe[T]
 }
 
 
-object MaybeTest extends App 
+object MaybeTest extends App
 {
     val just3 = Just(3)
     println(just3.map(_*2))

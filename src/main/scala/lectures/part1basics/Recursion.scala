@@ -18,7 +18,7 @@ object Recursion extends App
                 
         }
 
-    println(factorial(10))
+    //println(factorial(5000))
     
 
     def anotherFactorial(n:Int):BigInt = 
@@ -33,6 +33,9 @@ object Recursion extends App
 
         }
 
+    println("Compiting the factorial of 20000")
+    println(anotherFactorial(20000))
+
     /*
     anotherFactorial(10) = factHelper(10,1)
     = factHelper(9,10)
@@ -44,7 +47,7 @@ object Recursion extends App
     = 1*2*3*4*...*10
     */
 
-    println(anotherFactorial(25000))
+    
     
 
     // WHEN YOU NEED LOOPS, USE _TAIL_RECURSION.
