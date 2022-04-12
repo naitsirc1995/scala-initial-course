@@ -41477,3 +41477,32 @@ WARNING: Unmatched cancel notification for request id 755
 2022.04.11 19:38:24 INFO  No mtags for 2.12.6.[0m
 2022.04.11 19:38:24 WARN  unsupported Scala 2.12.6[0m
 2022.04.11 19:38:24 INFO  time: compiled rock-the-jvm-beginners in 0.26s[0m
+2022.04.11 19:55:52 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.11 19:55:52 INFO  time: compiled rock-the-jvm-beginners in 0.12s[0m
+2022.04.11 19:55:59 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.11 19:55:59 INFO  time: compiled rock-the-jvm-beginners in 0.12s[0m
+2022.04.11 19:56:01 ERROR Failed to fetch mtags for 2.12.6
+Error downloading org.scalameta:mtags_2.12.6:0.11.2
+  not found: /home/cristian/.ivy2/local/org.scalameta/mtags_2.12.6/0.11.2/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.12.6/0.11.2/mtags_2.12.6-0.11.2.pom[0m
+2022.04.11 19:56:01 WARN  unsupported Scala 2.12.6[0m
+2022.04.11 19:56:01 INFO  No mtags for 2.12.6.[0m
+2022.04.11 19:56:01 WARN  unsupported Scala 2.12.6[0m
+2022.04.11 19:56:01 INFO  No mtags for 2.12.6.[0m
+2022.04.11 19:56:01 WARN  unsupported Scala 2.12.6[0m
+2022.04.11 19:56:03 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.11 19:56:03 INFO  time: compiled rock-the-jvm-beginners in 0.13s[0m
+2022.04.11 19:56:04 INFO  No mtags for 2.12.6.[0m
+2022.04.11 19:56:04 WARN  unsupported Scala 2.12.6[0m
+2022.04.11 19:56:04 INFO  No mtags for 2.12.6.[0m
+2022.04.11 19:56:04 WARN  unsupported Scala 2.12.6[0m
+2022.04.11 19:56:04 INFO  No mtags for 2.12.6.[0m
+2022.04.11 19:56:04 WARN  unsupported Scala 2.12.6[0m
+2022.04.11 19:56:06 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.11 19:56:06 INFO  time: compiled rock-the-jvm-beginners in 0.12s[0m
+2022.04.11 19:56:12 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.11 19:56:12 INFO  time: compiled rock-the-jvm-beginners in 0.12s[0m
+2022.04.11 19:56:19 INFO  compiling rock-the-jvm-beginners (1 scala source)[0m
+2022.04.11 19:56:19 INFO  time: compiled rock-the-jvm-beginners in 0.13s[0m
