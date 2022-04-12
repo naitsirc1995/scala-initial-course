@@ -1,1 +1,1 @@
-mvn scala:run -DmainClass=lectures.part3fp.HOFsCurries -q
+mvn scala:run -DmainClass=lectures.part3fp.MapFlatmapFilterFor -q
