@@ -200,6 +200,11 @@ object ListTest extends App
     println(listOfIntegers.fold(0,(x:Int,y:Int)=>x+y))
     println(unorderedListOfIntegers.fold(0,(x:Int,y:Int)=>x+y))
         
-        
-    
+    val combinations = for {
+        n <- listOfIntegers
+        m <- anotherListOfIntegers
+    } yield n + m 
+
+    println("I just got combinations")
+    println(combinations)
 }
