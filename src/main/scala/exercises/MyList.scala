@@ -207,4 +207,5 @@ object ListTest extends App
 
     println("I just got combinations")
     println(combinations)
+    
 }
