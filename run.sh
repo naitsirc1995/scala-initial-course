@@ -1,1 +1,1 @@
-mvn scala:run -DmainClass=lectures.part3fp.TuplesAndMaps -q
+mvn scala:run -DmainClass=lectures.part3fp.Options -q
