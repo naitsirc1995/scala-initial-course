@@ -8,7 +8,7 @@ object InheritanceAndTraits extends App
         val creatureType = "wild"
         def eat = println("nomnomnom")
     }
-
+    
     class Cat extends Animal
     {
         
