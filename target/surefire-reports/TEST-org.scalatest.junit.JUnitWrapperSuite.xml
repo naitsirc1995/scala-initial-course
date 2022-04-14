@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite 
+errors="0" failures="0" hostname="aleph" name="org.scalatest.junit.JUnitWrapperSuite" tests="0" time="0.038" timestamp="2022-04-14T09:32:49">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment">
+    </property>
+    <property name="java.vm.version" value="11.0.13+10-LTS-370"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/jdk-11/lib"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property 
+    name="java.vm.specification.name" value="Java Virtual Machine Specification">
+</property>
+    <property 
+    name="user.dir" value="/home/cristian/info/estudio/scala/rock-the-jvm-beginners">
+</property>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.13+10-LTS-370"/>
+    <property 
+    name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment">
+</property>
+    <property 
+    name="basedir" value="/home/cristian/info/estudio/scala/rock-the-jvm-beginners">
+</property>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value=" "/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property 
+    name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib">
+</property>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property 
+    name="java.specification.name" value="Java Platform API Specification">
+</property>
+    <property 
+    name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers">
+</property>
+    <property name="os.version" value="5.14.0-1032-oem"/>
+    <property name="user.home" value="/home/cristian"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="cristian"/>
+    <property 
+    name="java.class.path" value="/home/cristian/info/estudio/scala/rock-the-jvm-beginners/target/test-classes:/home/cristian/info/estudio/scala/rock-the-jvm-beginners/target/classes:/home/cristian/.m2/repository/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar:/home/cristian/.m2/repository/junit/junit/4.12/junit-4.12.jar:/home/cristian/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/cristian/.m2/repository/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar:/home/cristian/.m2/repository/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar:/home/cristian/.m2/repository/org/scala-lang/scala-reflect/2.12.4/scala-reflect-2.12.4.jar:/home/cristian/.m2/repository/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar:/home/cristian/.m2/repository/org/specs2/specs2-core_2.12/4.2.0/specs2-core_2.12-4.2.0.jar:/home/cristian/.m2/repository/org/specs2/specs2-matcher_2.12/4.2.0/specs2-matcher_2.12-4.2.0.jar:/home/cristian/.m2/repository/org/specs2/specs2-common_2.12/4.2.0/specs2-common_2.12-4.2.0.jar:/home/cristian/.m2/repository/org/specs2/specs2-fp_2.12/4.2.0/specs2-fp_2.12-4.2.0.jar:/home/cristian/.m2/repository/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0.jar:/home/cristian/.m2/repository/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/home/cristian/.m2/repository/org/specs2/specs2-junit_2.12/4.2.0/specs2-junit_2.12-4.2.0.jar">
+</property>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property 
+    name="sun.java.command" value="org.scalatest.tools.Runner -R /home/cristian/info/estudio/scala/rock-the-jvm-beginners/target/classes /home/cristian/info/estudio/scala/rock-the-jvm-beginners/target/test-classes -j samples.AppTest -o -f /home/cristian/info/estudio/scala/rock-the-jvm-beginners/target/surefire-reports/TestSuiteReport.txt -u /home/cristian/info/estudio/scala/rock-the-jvm-beginners/target/surefire-reports/.">
+</property>
+    <property name="java.home" value="/usr/lib/jvm/jdk-11"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.13"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.version.date" value="2021-10-19"/>
+    <property 
+    name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/">
+</property>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

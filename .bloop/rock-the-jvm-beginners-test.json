@@ -26,13 +26,12 @@
             "/home/cristian/.m2/repository/org/specs2/specs2-fp_2.12/4.2.0/specs2-fp_2.12-4.2.0.jar",
             "/home/cristian/.m2/repository/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0.jar",
             "/home/cristian/.m2/repository/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar",
-            "/home/cristian/.m2/repository/org/specs2/specs2-junit_2.12/4.2.0/specs2-junit_2.12-4.2.0.jar",
-            "/home/cristian/.m2/repository/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar"
+            "/home/cristian/.m2/repository/org/specs2/specs2-junit_2.12/4.2.0/specs2-junit_2.12-4.2.0.jar"
         ],
         "out": "/home/cristian/info/estudio/scala/rock-the-jvm-beginners/target",
         "classesDir": "/home/cristian/info/estudio/scala/rock-the-jvm-beginners/target/test-classes",
         "resources": [
-            "/home/cristian/info/estudio/scala/rock-the-jvm-beginners/src/test/resources"
+            
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -42,11 +41,11 @@
                 
             ],
             "jars": [
-                "/home/cristian/.m2/repository/org/scala-lang/scala-compiler/2.12.6/scala-compiler-2.12.6.jar",
                 "/home/cristian/.m2/repository/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar",
+                "/home/cristian/.m2/repository/org/scala-lang/scala-compiler/2.12.6/scala-compiler-2.12.6.jar",
                 "/home/cristian/.m2/repository/org/scala-lang/scala-reflect/2.12.6/scala-reflect-2.12.6.jar",
                 "/home/cristian/.m2/repository/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar",
-                "/home/cristian/.m2/repository/jline/jline/2.14.6/jline-2.14.6.jar"
+                "/home/cristian/.m2/repository/org/scala-lang/scala-library/2.12.0/scala-library-2.12.0.jar"
             ],
             "setup": {
                 "order": "mixed",
@@ -139,22 +138,6 @@
             "modules": [
                 {
                     "organization": "org.specs2",
-                    "name": "specs2-junit_2.12",
-                    "version": "4.2.0",
-                    "artifacts": [
-                        {
-                            "name": "specs2-junit_2.12",
-                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-junit_2.12/4.2.0/specs2-junit_2.12-4.2.0.jar"
-                        },
-                        {
-                            "name": "specs2-junit_2.12",
-                            "classifier": "sources",
-                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-junit_2.12/4.2.0/specs2-junit_2.12-4.2.0-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.specs2",
                     "name": "specs2-matcher_2.12",
                     "version": "4.2.0",
                     "artifacts": [
@@ -170,34 +153,18 @@
                     ]
                 },
                 {
-                    "organization": "org.scalatest",
-                    "name": "scalatest_2.12",
-                    "version": "3.0.5",
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.12.6",
                     "artifacts": [
                         {
-                            "name": "scalatest_2.12",
-                            "path": "/home/cristian/.m2/repository/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar"
+                            "name": "scala-library",
+                            "path": "/home/cristian/.m2/repository/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar"
                         },
                         {
-                            "name": "scalatest_2.12",
+                            "name": "scala-library",
                             "classifier": "sources",
-                            "path": "/home/cristian/.m2/repository/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.specs2",
-                    "name": "specs2-core_2.12",
-                    "version": "4.2.0",
-                    "artifacts": [
-                        {
-                            "name": "specs2-core_2.12",
-                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-core_2.12/4.2.0/specs2-core_2.12-4.2.0.jar"
-                        },
-                        {
-                            "name": "specs2-core_2.12",
-                            "classifier": "sources",
-                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-core_2.12/4.2.0/specs2-core_2.12-4.2.0-sources.jar"
+                            "path": "/home/cristian/.m2/repository/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6-sources.jar"
                         }
                     ]
                 },
@@ -234,18 +201,18 @@
                     ]
                 },
                 {
-                    "organization": "org.scala-lang.modules",
-                    "name": "scala-parser-combinators_2.12",
-                    "version": "1.1.0",
+                    "organization": "org.specs2",
+                    "name": "specs2-fp_2.12",
+                    "version": "4.2.0",
                     "artifacts": [
                         {
-                            "name": "scala-parser-combinators_2.12",
-                            "path": "/home/cristian/.m2/repository/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0.jar"
+                            "name": "specs2-fp_2.12",
+                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-fp_2.12/4.2.0/specs2-fp_2.12-4.2.0.jar"
                         },
                         {
-                            "name": "scala-parser-combinators_2.12",
+                            "name": "specs2-fp_2.12",
                             "classifier": "sources",
-                            "path": "/home/cristian/.m2/repository/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0-sources.jar"
+                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-fp_2.12/4.2.0/specs2-fp_2.12-4.2.0-sources.jar"
                         }
                     ]
                 },
@@ -266,54 +233,6 @@
                     ]
                 },
                 {
-                    "organization": "org.scala-lang.modules",
-                    "name": "scala-xml_2.12",
-                    "version": "1.0.6",
-                    "artifacts": [
-                        {
-                            "name": "scala-xml_2.12",
-                            "path": "/home/cristian/.m2/repository/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar"
-                        },
-                        {
-                            "name": "scala-xml_2.12",
-                            "classifier": "sources",
-                            "path": "/home/cristian/.m2/repository/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.scala-lang",
-                    "name": "scala-library",
-                    "version": "2.12.6",
-                    "artifacts": [
-                        {
-                            "name": "scala-library",
-                            "path": "/home/cristian/.m2/repository/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar"
-                        },
-                        {
-                            "name": "scala-library",
-                            "classifier": "sources",
-                            "path": "/home/cristian/.m2/repository/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.specs2",
-                    "name": "specs2-fp_2.12",
-                    "version": "4.2.0",
-                    "artifacts": [
-                        {
-                            "name": "specs2-fp_2.12",
-                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-fp_2.12/4.2.0/specs2-fp_2.12-4.2.0.jar"
-                        },
-                        {
-                            "name": "specs2-fp_2.12",
-                            "classifier": "sources",
-                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-fp_2.12/4.2.0/specs2-fp_2.12-4.2.0-sources.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "org.scala-sbt",
                     "name": "test-interface",
                     "version": "1.0",
@@ -326,6 +245,54 @@
                             "name": "test-interface",
                             "classifier": "sources",
                             "path": "/home/cristian/.m2/repository/org/scala-sbt/test-interface/1.0/test-interface-1.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.specs2",
+                    "name": "specs2-common_2.12",
+                    "version": "4.2.0",
+                    "artifacts": [
+                        {
+                            "name": "specs2-common_2.12",
+                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-common_2.12/4.2.0/specs2-common_2.12-4.2.0.jar"
+                        },
+                        {
+                            "name": "specs2-common_2.12",
+                            "classifier": "sources",
+                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-common_2.12/4.2.0/specs2-common_2.12-4.2.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.specs2",
+                    "name": "specs2-junit_2.12",
+                    "version": "4.2.0",
+                    "artifacts": [
+                        {
+                            "name": "specs2-junit_2.12",
+                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-junit_2.12/4.2.0/specs2-junit_2.12-4.2.0.jar"
+                        },
+                        {
+                            "name": "specs2-junit_2.12",
+                            "classifier": "sources",
+                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-junit_2.12/4.2.0/specs2-junit_2.12-4.2.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scalatest",
+                    "name": "scalatest_2.12",
+                    "version": "3.0.5",
+                    "artifacts": [
+                        {
+                            "name": "scalatest_2.12",
+                            "path": "/home/cristian/.m2/repository/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar"
+                        },
+                        {
+                            "name": "scalatest_2.12",
+                            "classifier": "sources",
+                            "path": "/home/cristian/.m2/repository/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5-sources.jar"
                         }
                     ]
                 },
@@ -346,18 +313,50 @@
                     ]
                 },
                 {
+                    "organization": "org.scala-lang.modules",
+                    "name": "scala-xml_2.12",
+                    "version": "1.0.6",
+                    "artifacts": [
+                        {
+                            "name": "scala-xml_2.12",
+                            "path": "/home/cristian/.m2/repository/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar"
+                        },
+                        {
+                            "name": "scala-xml_2.12",
+                            "classifier": "sources",
+                            "path": "/home/cristian/.m2/repository/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang.modules",
+                    "name": "scala-parser-combinators_2.12",
+                    "version": "1.1.0",
+                    "artifacts": [
+                        {
+                            "name": "scala-parser-combinators_2.12",
+                            "path": "/home/cristian/.m2/repository/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0.jar"
+                        },
+                        {
+                            "name": "scala-parser-combinators_2.12",
+                            "classifier": "sources",
+                            "path": "/home/cristian/.m2/repository/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0-sources.jar"
+                        }
+                    ]
+                },
+                {
                     "organization": "org.specs2",
-                    "name": "specs2-common_2.12",
+                    "name": "specs2-core_2.12",
                     "version": "4.2.0",
                     "artifacts": [
                         {
-                            "name": "specs2-common_2.12",
-                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-common_2.12/4.2.0/specs2-common_2.12-4.2.0.jar"
+                            "name": "specs2-core_2.12",
+                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-core_2.12/4.2.0/specs2-core_2.12-4.2.0.jar"
                         },
                         {
-                            "name": "specs2-common_2.12",
+                            "name": "specs2-core_2.12",
                             "classifier": "sources",
-                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-common_2.12/4.2.0/specs2-common_2.12-4.2.0-sources.jar"
+                            "path": "/home/cristian/.m2/repository/org/specs2/specs2-core_2.12/4.2.0/specs2-core_2.12-4.2.0-sources.jar"
                         }
                     ]
                 }

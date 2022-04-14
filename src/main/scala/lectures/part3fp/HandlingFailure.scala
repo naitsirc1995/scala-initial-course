@@ -5,6 +5,8 @@ import scala.util.Failure
 import scala.util.Try
 import java.util.Random
 
+
+
 object HandlingFailure extends App 
 {
     val aSuccess = Success(3)

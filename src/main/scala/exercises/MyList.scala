@@ -1,5 +1,6 @@
 package exercises
 
+
 abstract class MyList[+A] 
 {
     /*
